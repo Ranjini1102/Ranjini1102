@@ -40,16 +40,19 @@
 
 #### 1. 🛡️ [Smart Attendance System](https://github.com/Ranjini1102/Smart-Attendance-System)
 > *Automated, multi-role attendance system featuring face verification and secure geolocation/device tracking.*
+- **Repository**: [`github.com/Ranjini1102/Smart-Attendance-System`](https://github.com/Ranjini1102/Smart-Attendance-System)
 - **Tech Stack**: Python, FastAPI, Flutter, MySQL, OpenCV, JWT, Docker
 - **Key Features**: Student, Teacher, and Admin modules with live face verification, liveness detection, GPS geofencing, and BLE verification for fraud-proof attendance recording.
 
 #### 2. 🌐 [AWS EC2 Web Server Deployment](https://github.com/Ranjini1102/AWS-EC2-Web-Server-Deployment)
 > *End-to-end deployment of a production-ready HTTP web server on AWS cloud infrastructure.*
+- **Repository**: [`github.com/Ranjini1102/AWS-EC2-Web-Server-Deployment`](https://github.com/Ranjini1102/AWS-EC2-Web-Server-Deployment)
 - **Tech Stack**: AWS EC2, Linux (Ubuntu), Apache HTTP Server
 - **Key Features**: Provisioned EC2 instances, configured Security Groups and SSH keys, installed Apache HTTP Server, and managed Linux file permissions for web hosting.
 
-#### 3. 🚆 Contactless Train Monitoring System *(Ideathon Prize Winner)*
+#### 3. 🚆 [Contactless Train Monitoring System](https://drive.google.com/drive/folders/1t4M1WpQq5WdF2Uxmu4mLNiAHrg-urInM) *(Ideathon Prize Winner)*
 > *Safety monitoring concept designed for railway operations.*
+- **Project Files & Presentation**: [![Google Drive](https://img.shields.io/badge/Project_Files-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1t4M1WpQq5WdF2Uxmu4mLNiAHrg-urInM)
 - **Achievement**: Won **2nd Prize** in Ideathon Competition.
 
 ---
