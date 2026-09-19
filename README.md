@@ -51,7 +51,7 @@
 
 #### 1. 🛡️ [Smart Attendance System](https://github.com/Ranjini1102/Smart-Attendance-System)
 > *Automated, multi-role attendance system featuring face verification and secure geolocation/device tracking.*
-- **Repository**: [`github.com/Ranjini1102/Smart-Attendance-System`](https://github.com/Ranjini1102/Smart-Attendance-System)
+- **Repository**: [`https://github.com/RITHULOWKEY/smart-attendance-system/blob/main/README.md)
 - **Tech Stack**: Python, FastAPI, Flutter, MySQL, OpenCV, JWT, Docker
 - **Key Features**: Student, Teacher, and Admin modules with live face verification, liveness detection, GPS geofencing, and BLE verification for fraud-proof attendance recording.
 
