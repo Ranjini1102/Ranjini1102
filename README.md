@@ -39,6 +39,7 @@
 ### 🧩 Competitive Coding Profiles & Platform Statistics
 
 | Platform | Profile Link | Handle / Username | 
+| :--- | :--- | :--- |
 | **Codeforces** | [<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/ranjinikanagaraj1102) | [`@ranjinikanagaraj1102`](https://codeforces.com/profile/ranjinikanagaraj1102) | 
 | **HackerRank** | [<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />](https://www.hackerrank.com/profile/ranjinikanagara1) | [`@ranjinikanagara1`](https://www.hackerrank.com/profile/ranjinikanagara1) | 
 | **GeeksforGeeks** | [<img src="https://img.shields.io/badge/GeeksforGeeks-2F9D27?style=flat-square&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/profile/ranjinikanaho1r) | [`@ranjinikanaho1r`](https://www.geeksforgeeks.org/profile/ranjinikanaho1r) | 
